@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Petrichor::VERSION
   spec.authors       = ["Leonard Garvey"]
   spec.email         = ["lengarvey@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = %q{It's a blank gem}
+  spec.description   = %q{blank gems rule}
+  spec.homepage      = "https://github.com/lengarvey/petrichor"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
